@@ -1,4 +1,6 @@
 opencart-seo-url-generator
 ==========================
 
-Generates Opencart SEO url's
+Generates SEO url's for Opencart
+
+tested on 1.5.5.1
